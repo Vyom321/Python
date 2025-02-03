@@ -1,0 +1,1 @@
+Artificial intelligence (AI) is intelligence demonstrated by machines, in contrast to the natural intelligence displayed by humans. Machine learning is a subset of AI that focuses on the development of computer programs that can access data and use it to learn for themselves. Deep learning is a subset of machine learning that uses neural networks with many layers.
